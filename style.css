@@ -23,7 +23,7 @@ body{
 .box2{
     border:5px solid rgb(8, 240, 8);
     border-style:inset; 
-    height:1500px;
+    height:800px;
      
     margin:0;
     padding:0;
@@ -60,7 +60,7 @@ body{
     align-items:center;
    margin-left:990px;
    position: absolute;
-   top:200px; 
+   top:210px; 
    box-shadow: 7px 7px rgb(124, 7, 124);
 
 
@@ -249,7 +249,7 @@ text-align: center;
         font-size:larger;
         /* position: absolute;
         bottom:20px; */
-        margin-top:10px;
+        margin-top:50px;
         
     }
     /* .o{
